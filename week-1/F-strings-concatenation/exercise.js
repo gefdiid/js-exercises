@@ -1,3 +1,7 @@
 // Start by creating a variable `message`
 
-console.log(message);
+var message = "My name is Liban Abdulkadir";
+var secondMessage = "vi saluto a tutti";
+var totalMessage = message + secondMessage;
+
+console.log(totalMessage);
